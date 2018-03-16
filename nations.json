@@ -1,0 +1,302 @@
+{
+  "nations": [{
+      "nation": "Avalon",
+      "book": "core",
+      "traits": [{
+          "trait": "Panache",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Inismore",
+      "book": "core",
+      "traits": [{
+          "trait": "Panache",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "The Highland Marches",
+      "book": "core",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Finesse",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Castille",
+      "book": "core",
+      "traits": [{
+          "trait": "Finesse",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Eisen",
+      "book": "core",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Montaigne",
+      "book": "core",
+      "traits": [{
+          "trait": "Finesse",
+          "bonus": 1
+        },
+        {
+          "trait": "Panache",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Sarmatia",
+      "book": "core",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Panache",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Ussura",
+      "book": "core",
+      "traits": [{
+          "trait": "Resolve",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Vesten",
+      "book": "core",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Vodacce",
+      "book": "core",
+      "traits": [{
+          "trait": "Finesse",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Aragosta",
+      "book": "pirate",
+      "traits": [{
+          "trait": "Panache",
+          "bonus": 1
+        },
+        {
+          "trait": "Finesse",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Jaragua",
+      "book": "pirate",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Finesse",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "La Bucca",
+      "book": "pirate",
+      "traits": [{
+          "trait": "Panache",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Numa",
+      "book": "pirate",
+      "traits": [{
+          "trait": "Resolve",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Rahuri",
+      "book": "pirate",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Anatol Ayh",
+      "book": "crescent",
+      "traits": [{
+          "trait": "Panache",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Ashur",
+      "book": "crescent",
+      "traits": [{
+          "trait": "Finesse",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Persis",
+      "book": "crescent",
+      "traits": [{
+          "trait": "Panache",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Sarmion",
+      "book": "crescent",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Finesse",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Tribes of the 8th Sea",
+      "book": "crescent",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Kuraq",
+      "book": "new-world",
+      "traits": [{
+          "trait": "Brawn",
+          "bonus": 1
+        },
+        {
+          "trait": "Resolve",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Nahuaca",
+      "book": "new-world",
+      "traits": [{
+          "trait": "Finesse",
+          "bonus": 1
+        },
+        {
+          "trait": "Wits",
+          "bonus": 1
+        }
+      ]
+    },
+    {
+      "nation": "Tzak K'an",
+      "book": "new-world",
+      "traits": [{
+          "trait": "Wits",
+          "bonus": 1
+        },
+        {
+          "trait": "Panache",
+          "bonus": 1
+        }
+      ]
+    }
+  ]
+}
