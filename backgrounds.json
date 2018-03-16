@@ -1,0 +1,2694 @@
+{
+  "backgrounds": [{
+      "name": "Archæologist",
+      "description": "You study Syrneth ruins and explore the lost parts of Terra.",
+      "quirk": "Earn a Hero Point when you turn an artifact of value over to a university, museum, or a publicly displayed site",
+      "advantages": [
+        "Signature Item",
+        "Eagle Eyes"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Notice",
+        "Scholarship",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Aristocrat",
+      "description": "You were born into the nobility of your home country and regularly attend the courts.",
+      "quirk": "Earn a Hero Point when you prove there is more to nobility than expensive clothes and attending court",
+      "advantages": [
+        "Rich",
+        "Disarming Smile"
+      ],
+      "skills": [
+        "Aim",
+        "Convince",
+        "Empathy",
+        "Ride",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Army Officer",
+      "description": "You enlisted in the army and soon found yourself in a command position.",
+      "quirk": "Earn a Hero Point when you seize command during a moment of intense violence or extreme danger.",
+      "advantages": [
+        "Academy",
+        "Direction Sense"
+      ],
+      "skills": [
+        "Arm",
+        "Athletics",
+        "Intimidate",
+        "Ride",
+        "Warfare"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Artist",
+      "description": "You work tirelessly to create objects of beauty.",
+      "quirk": "Earn a Hero Point when you make a sacrifice in the hope of making Théah a more beautiful place.",
+      "advantages": [
+        "Patron",
+        "Fascinate"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Perform",
+        "Ride",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Assassin",
+      "description": "You stalked the shadows as a specter of silent death in return for bloody coin, but no more.",
+      "quirk": "Earn a Hero Point when you go out of your way to avoid the death of an adversary or outright refuse a course of action because it could result in another person's death.",
+      "advantages": [
+        "Fencer",
+        "Psst, Over Here"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Hide",
+        "Intimidate",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Cavalry",
+      "description": "You are a mounted warrior and part of your Nation's esteemed cavalry.",
+      "quirk": "Earn a Hero Point when you apply your skills in horse riding to an uncommon situation.",
+      "advantages": [
+        "Bruiser",
+        "Indomitable Will"
+      ],
+      "skills": [
+        "Intimidate",
+        "Notice",
+        "Ride",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Courtier",
+      "description": "You regularly attend the courts of your home Nation and act as a diplomat to foreign courts.",
+      "quirk": "Earn a Hero Point when you turn the tide of violence with charm and flair.",
+      "advantages": [
+        "An Honest Misunderstanding",
+        "Friend at Court"
+      ],
+      "skills": [
+        "Empathy",
+        "Perform",
+        "Ride",
+        "Tempt",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Crafter",
+      "description": "You work tirelessly to create objects of function.",
+      "quirk": "Earn a Hero Point when you use everyday crafting skills to solve a problem deemed too complex for such a simple solution.",
+      "advantages": [
+        "Masterpiece Crafter",
+        "Handy"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Notice",
+        "Perform",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 138,
+      "nation": "all"
+    },
+    {
+      "name": "Criminal",
+      "description": "You break unjust laws to achieve what you believe is the greater good.",
+      "quirk": "Earn a Hero Point when you break the law in the pursuit of a noble endeavor.",
+      "advantages": [
+        "Camaraderie",
+        "Streetwise"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Hide",
+        "Intimidate",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Doctor",
+      "description": "You work to heal the sick and tend to the wounded.",
+      "quirk": "Earn a Hero Point when you tend to the injuries of a Villain or the innocents harmed by a Villain.",
+      "advantages": [
+        "Miracle Worker",
+        "Time Sense"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Notice",
+        "Ride",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Duelist",
+      "description": "You have devoted your life to mastering the blade.",
+      "quirk": "Earn a Hero Point when you resort to the edge of your blade to defend a noble ideal.",
+      "advantages": [
+        "Duelist Academy"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Intimidate",
+        "Perform",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Engineer",
+      "description": "You are concerned with applying scientific knowledge, mathematics, and ingenuity to develop solutions for technical, social and commercial problems",
+      "quirk": "Earn a Hero Point when you use your technological savvy to solve a problem.",
+      "advantages": [
+        "Masterpiece Crafter",
+        "Direction Sense",
+        "Time Sense"
+      ],
+      "skills": [
+        "Aim",
+        "Convince",
+        "Ride",
+        "Scholarship",
+        "Warfare"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Explorer",
+      "description": "You live to see the farthest reaches that Terra has to offer.",
+      "quirk": "Earn a Hero Point when you set your eyes upon a sight few, if any, Théans have ever seen before.",
+      "advantages": [
+        "Quick Reflexes",
+        "Second Story Work"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Empathy",
+        "Ride",
+        "Sailing"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Farmkid",
+      "description": "You were raised on a small farm, working to survive, and have never known the life of adventure.",
+      "quirk": "Earn a Hero Point when you solve a complex problem in a simple, tried and true method from back on the farm.",
+      "advantages": [
+        "Legendary Trait",
+        "Survivalist"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Empathy",
+        "Perform",
+        "Ride"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Hunter",
+      "description": "You sleep under the stars and hunt your meals with your own two hands.",
+      "quirk": "Earn a Hero Point when you use your hunter's acumen to save someone from danger.",
+      "advantages": [
+        "Sniper",
+        "Got It!"
+      ],
+      "skills": [
+        "Aim",
+        "Hide",
+        "Intimidate",
+        "Notice",
+        "Ride"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Jenny",
+      "description": "You seduce others for fun and profit.",
+      "quirk": "Earn a Hero Point when you resolve a conflict with seduction or sexual wiles.",
+      "advantages": [
+        "Dynamic Approach",
+        "Come Hither"
+      ],
+      "skills": [
+        "Aim",
+        "Athletics",
+        "Empathy",
+        "Perform",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 139,
+      "nation": "all"
+    },
+    {
+      "name": "Mercenary",
+      "description": "You sell your skills in battle to the highest bidder.",
+      "quirk": "Earn a Hero Point when you choose to ply your trade for a reason that's worth more to you than money.",
+      "advantages": [
+        "Hard to Kill",
+        "Cast Iron Stomach"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Intimidate",
+        "Notice",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Merchant",
+      "description": "You travel the countryside to sell your wares in market or port.",
+      "quirk": "Earn a Hero Point when you sell an item for far less than it's worth to someone who desperately needs it.",
+      "advantages": [
+        "Lyceum",
+        "Time Sense"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Ride",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Naval Officer",
+      "description": "You enlisted in the navy and worked your way into the command crew of a ship.",
+      "quirk": "Earn a Hero Point when you put the needs of the crew ahead of the needs of the mission.",
+      "advantages": [
+        "Perfect Balance",
+        "Barterer",
+        "Sea Legs"
+      ],
+      "skills": [
+        "Intimidate",
+        "Notice",
+        "Sailing",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Orphan",
+      "description": "You lost your parents at a young age and have been forced to look out for yourself.",
+      "quirk": "Earn a Hero Point when you put yourself in danger to ensure someone else doesn't have to be alone.",
+      "advantages": [
+        "Brush Pass",
+        "Reckless Takedown"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Empathy",
+        "Hide",
+        "Intimidate"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Performer",
+      "description": "You work tirelessly to create an experience of beauty.",
+      "quirk": "Earn a Hero Point when you use your crowd-pleasing skills for something more than making a few coins.",
+      "advantages": [
+        "Virtuoso",
+        "Inspire Generosity"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Perform",
+        "Tempt",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Pirate",
+      "description": "You sail the seas, taking what you need, and providing true freedom to all who accept the call.",
+      "quirk": "Earn a Hero Point when you make a personal sacrifice to ensure the freedom of another.",
+      "advantages": [
+        "Deadeye",
+        "Indomitable Will"
+      ],
+      "skills": [
+        "Aim",
+        "Intimidate",
+        "Notice",
+        "Sailing",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Priest",
+      "description": "You serve a higher cause with every living breath you take.",
+      "quirk": "Earn a Hero Point when you set aside the rhetoric and take action to practice the virtues you preach.",
+      "advantages": [
+        "Ordained",
+        "Inspire Generosity"
+      ],
+      "skills": [
+        "Empathy",
+        "Perform",
+        "Ride",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Professor",
+      "description": "You teach others at a prestigious learning institution.",
+      "quirk": "Earn a Hero Point when you use knowledge from an obscure text to solve a complicated problem.",
+      "advantages": [
+        "Tenure",
+        "Team Player"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Perform",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 140,
+      "nation": "all"
+    },
+    {
+      "name": "Pugilist",
+      "description": "You rely on your hands and feet to solve all the violent problems in your life.",
+      "quirk": "Earn a Hero Point when you drop what you're holding to fight with fists regardless of your opponent's weapon.",
+      "advantages": [
+        "Boxer",
+        "Staredown"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Convince",
+        "Empathy",
+        "Perform"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Quartermaster",
+      "description": "You serve aboard a ship taking care of all the things the other sailors ignore.",
+      "quirk": "Earn a Hero Point when you solve a problem for your crew.",
+      "advantages": [
+        "Handy",
+        "Got It!",
+        "Sea Legs"
+      ],
+      "skills": [
+        "Aim",
+        "Brawl",
+        "Hide",
+        "Sailing",
+        "Warfare"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Sailor",
+      "description": "You serve no country or master, but the ship and your crew are all the family you need.",
+      "quirk": "Earn a Hero Point when you put aside your personal desires to ensure the safety and comfort of your allies.",
+      "advantages": [
+        "Bar Fighter",
+        "Eagle Eyes"
+      ],
+      "skills": [
+        "Brawl",
+        "Notice",
+        "Sailing",
+        "Tempt",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Scholar",
+      "description": "You dedicate yourself to learning and documenting all the wonders of Terra.",
+      "quirk": "Earn a Hero Point when you put yourself in harm's way in pursuit of knowledge.",
+      "advantages": [
+        "University",
+        "Linguist"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Notice",
+        "Perform",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Servant",
+      "description": "You work for another doing whatever your master's bidding may be.",
+      "quirk": "Earn a Hero Point when you put yourself in danger to assist another character with a difficult task.",
+      "advantages": [
+        "Foul Weather Jack",
+        "Team Player"
+      ],
+      "skills": [
+        "Hide",
+        "Notice",
+        "Ride",
+        "Tempt",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Ship Captain",
+      "description": "You command a crew and sail the seas for whatever banner you fly.",
+      "quirk": "Earn a Hero Point when you're the last one in your crew to safety.",
+      "advantages": [
+        "Married to the Sea",
+        "Leadership",
+        "Sea Legs"
+      ],
+      "skills": [
+        "Aim",
+        "Convince",
+        "Notice",
+        "Sailing",
+        "Warfare"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Soldier",
+      "description": "You know how to fight—and how to kill—and you have made a life doing so under banners and for lords.",
+      "quirk": "Earn a Hero Point when you stick to the plan regardless of the danger to yourself.",
+      "advantages": [
+        "Riot Breaker",
+        "Able Drinker"
+      ],
+      "skills": [
+        "Aim",
+        "Intimidate",
+        "Notice",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Spy",
+      "description": "You serve your Nation by infiltrating its enemies and securing their secrets.",
+      "quirk": "Earn a Hero Point when you take a great risk to uncover a secret.",
+      "advantages": [
+        "Opportunist",
+        "Poison Immunity"
+      ],
+      "skills": [
+        "Empathy",
+        "Hide",
+        "Notice",
+        "Tempt",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 141,
+      "nation": "all"
+    },
+    {
+      "name": "Bard",
+      "description": "You tell the old tales, the stories of Legends, and ensure the soul of Avalon is never forgotten.",
+      "quirk": "Earn a Hero Point when you solve a problem by following an example set by a Legend.",
+      "advantages": [
+        "Barterer",
+        "Virtuoso",
+        "Able Drinker"
+      ],
+      "skills": [
+        "Aim",
+        "Convince",
+        "Empathy",
+        "Perform",
+        "Ride"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Glamour Isles"
+    },
+    {
+      "name": "Knight Errant",
+      "description": "You are imbued with the legendary magic of the Knights of King Elilodd.",
+      "quirk": "Earn a Hero Point when you uphold an ideal of knightly virtue in a way that gets you into trouble.",
+      "advantages": [
+        "Sorcery",
+        "Sorcery",
+        "Direction Sense"
+      ],
+      "skills": [
+        "Brawl",
+        "Intimidate",
+        "Ride",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Glamour Isles"
+    },
+    {
+      "name": "Privateer",
+      "description": "You have been given a charter to sink any ships that are enemies to the Crown of Avalon.",
+      "quirk": "Earn a Hero Point when you defeat the enemies of the Crown of Avalon.",
+      "advantages": [
+        "The Devil's Own Luck",
+        "Perfect Balance"
+      ],
+      "skills": [
+        "Notice",
+        "Sailing",
+        "Tempt",
+        "Theft",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Glamour Isles"
+    },
+    {
+      "name": "Unification Agent",
+      "description": "You have been tasked by the Crown of Avalon to keep the peace among the Isles.",
+      "quirk": "Earn a Hero Point when you ensure the stability of the Glamour Isles Unification.",
+      "advantages": [
+        "University",
+        "Survivalist"
+      ],
+      "skills": [
+        "Aim",
+        "Empathy",
+        "Notice",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Glamour Isles"
+    },
+    {
+      "name": "Puritan",
+      "description": "You are a reformed Objectionist who seeks to \"purify\" the Church of Avalon from all Vaticine practices",
+      "quirk": "Earn a Hero Point when you expose corruption, hypocrisy, or ineffectiveness within the Vaticine Church.",
+      "advantages": [
+        "Dynamic Approach",
+        "Reputation"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Ride",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Avalon"
+    },
+    {
+      "name": "Saoi (Wise One)",
+      "description": "You hold the highest honor bestowed by Aosdána, a state-supported association of Inish creative artists.",
+      "quirk": "Earn a Hero Point when you put yourself in harm's way to protect the artists of Théah.",
+      "advantages": [
+        "Team Player",
+        "Disarming Smile",
+        "Able Drinker"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Empathy",
+        "Perform",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Inismore"
+    },
+    {
+      "name": "Seanchaidh (Warrior-Poet)",
+      "description": "You are a storyteller and historian, versed in the laws of your people and their ancient ways.",
+      "quirk": "Earn a Hero Point when you enforce the ancient laws of your people.",
+      "advantages": [
+        "Riot Breaker",
+        "Linguist"
+      ],
+      "skills": [
+        "Convince",
+        "Notice",
+        "Perform",
+        "Ride",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 142,
+      "nation": "Highland Marches"
+    },
+    {
+      "name": "Alquimista",
+      "description": "You sought long and hard until you unlocked the mystery of alchemical creation.",
+      "quirk": "Earn a Hero Point when you improve another Théan's life through Alchemy.",
+      "advantages": [
+        "Alchemist",
+        "Cast Iron Stomach"
+      ],
+      "skills": [
+        "Empathy",
+        "Notice",
+        "Scholarship",
+        "Tempt",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Castille"
+    },
+    {
+      "name": "Antropólogo",
+      "description": "You are a cousin to the Archæologist but focused on the people you find and not the ruins they left behind.",
+      "quirk": "Earn a Hero Point when you solve a problem for a group of strangers.",
+      "advantages": [
+        "University",
+        "Linguist"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Empathy",
+        "Notice",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Castille"
+    },
+    {
+      "name": "Diestro",
+      "description": "You have dedicated your life to the understanding of the Sword, not just its function.",
+      "quirk": "Earn a Hero Point when you best a trained duelist at her own game.",
+      "advantages": [
+        "Fencer",
+        "Disarming Smile"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Intimidate",
+        "Scholarship",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Castille"
+    },
+    {
+      "name": "Mirabilist (Priest)",
+      "description": "You are a master scholar of the Vaticine Church and member of the Ordo Doctorem Mirabilis.",
+      "quirk": "Earn a Hero Point when you give of yourself to demonstrate the warmth and compassion of the Vaticine Church.",
+      "advantages": [
+        "Ordained",
+        "Spark of Genius"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Perform",
+        "Ride",
+        "Scholarship"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Castille"
+    },
+    {
+      "name": "Hexe",
+      "description": "You are a master of Hexenwerk, the sorcery of the dead.",
+      "quirk": "Earn a Hero Point when you go out of your way to ensure that the dead stay dead.",
+      "advantages": [
+        "Sorcery",
+        "Sorcery",
+        "Cast Iron Stomach"
+      ],
+      "skills": [
+        "Athletics",
+        "Intimidate",
+        "Notice",
+        "Tempt",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Krieger (Warrior)",
+      "description": "You survived the War of the Cross and carry the scars of many battles on your flesh.",
+      "quirk": "Earn a Hero Point when you choose to fight to defend the defenseless or prevent destruction.",
+      "advantages": [
+        "Staredown",
+        "Academy"
+      ],
+      "skills": [
+        "Aim",
+        "Athletics",
+        "Ride",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Ungetümjäger (Monster Hunter)",
+      "description": "You know that there are unnatural creatures stalking your homeland, and you've sworn to destroy them.",
+      "quirk": "Earn a Hero Point when you choose to hunt down an inhuman creature so it will never hurt anyone ever again.",
+      "advantages": [
+        "I Won't Die Here",
+        "Indomitable Will"
+      ],
+      "skills": [
+        "Aim",
+        "Athletics",
+        "Brawl",
+        "Notice",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Vitalienbruder (Pirate)",
+      "description": "You are one of the many brothers of Eisen dedicated to fair trade and equal shares.",
+      "quirk": "Earn a Hero Point when you take from the rich to give to the poor.",
+      "advantages": [
+        "Leadership",
+        "Streetwise",
+        "Sea Legs"
+      ],
+      "skills": [
+        "Brawl",
+        "Hide",
+        "Sailing",
+        "Theft",
+        "Warfare"
+      ],
+      "book": "core",
+      "page": 143,
+      "nation": "Eisen"
+    },
+    {
+      "name": "L'Ami du Roi (Courtier)",
+      "description": "You are, literally, a favorite courtier of the King of Montaigne.",
+      "quirk": "Earn a Hero Point when you leverage the King's favor to solve a problem.",
+      "advantages": [
+        "Connection",
+        "Friend at Court",
+        "Linguist"
+      ],
+      "skills": [
+        "Convince",
+        "Perform",
+        "Ride",
+        "Tempt",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Mousquetaire",
+      "description": "You are sworn to protect the King of Montaigne and your fellow musketeers until your death.",
+      "quirk": "Earn a Hero Point when you take a serious injury to protect your comrades or King.",
+      "advantages": [
+        "Camaraderie",
+        "Quick Reflexes"
+      ],
+      "skills": [
+        "Aim",
+        "Intimidate",
+        "Notice",
+        "Ride",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Révolutionnaire",
+      "description": "You have pledged yourself to seeing your country freed from the tyranny of the aristocracy.",
+      "quirk": "Earn a Hero Point when you make a personal sacrifice for the sake of liberty.",
+      "advantages": [
+        "Joie de Vivre",
+        "Slip Free"
+      ],
+      "skills": [
+        "Hide",
+        "Notice",
+        "Ride",
+        "Theft",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Sorcier Porté",
+      "description": "You have mastered the art of Porté, the magical opening of doorways.",
+      "quirk": "Earn a Hero Point when you close a [i]Blessure[/i] that a Villain ripped open.",
+      "advantages": [
+        "Sorcery",
+        "Sorcery",
+        "Time Sense"
+      ],
+      "skills": [
+        "Empathy",
+        "Hide",
+        "Ride",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Poseł (Envoy)",
+      "description": "You act as an advisor to the entire voting body of the Commonwealth.",
+      "quirk": "Earn a Hero Point when you insist on democracy when it would be advantageous for you to not take a vote.",
+      "advantages": [
+        "Leadership",
+        "Lyceum"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Perform",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Tremtis (Expatriate)",
+      "description": "You fled to the Commonwealth seeking asylum after Golden Liberty was declared.",
+      "quirk": "Earn a Hero Point when something from your past comes back to haunt you.",
+      "advantages": [
+        "Foreign Born",
+        "Streetwise",
+        "Connection"
+      ],
+      "skills": [
+        "Brawl",
+        "Empathy",
+        "Hide",
+        "Notice",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Winged Hussar",
+      "description": "You serve in the proudest of cavalry regiments, an elite unit in the Sarmatian military.",
+      "quirk": "Earn a Hero Point when you and your steed plunge head-first into a battle or conflict, heedless of the danger.",
+      "advantages": [
+        "Together We Are Strong",
+        "Team Player"
+      ],
+      "skills": [
+        "Convince",
+        "Notice",
+        "Ride",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Žynys (Soothsayer)",
+      "description": "You met the Devil on the road, tricked him, and gained his powers at your command.",
+      "quirk": "Earn a Hero Point when you use something evil for good.",
+      "advantages": [
+        "Sorcery",
+        "Sorcery",
+        "Linguist"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Perform",
+        "Scholarship",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 144,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Cossack",
+      "description": "You live in the Eastern steppes of Ussura, a place with a proud heritage of horsemanship and warfare.",
+      "quirk": "Earn a Hero Point when you leave behind something important so you can travel light.",
+      "advantages": [
+        "Strength of Ten",
+        "Reckless Takedown"
+      ],
+      "skills": [
+        "Brawl",
+        "Intimidate",
+        "Notice",
+        "Ride",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Progressivist",
+      "description": "You travel Théah to bring innovations home to modernize the old country.",
+      "quirk": "Earn a Hero Point when you risk life and limb to secure a piece of advanced technology.",
+      "advantages": [
+        "Extended Family",
+        "Handy",
+        "Connection"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Empathy",
+        "Ride",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Touched by Matushka",
+      "description": "You have been touched by Matushka and granted great power at a terrible price.",
+      "quirk": "Earn a Hero Point when you teach someone a lesson in a way that would make Matushka proud.",
+      "advantages": [
+        "Sorcery",
+        "Sorcery",
+        "Survivalist"
+      ],
+      "skills": [
+        "Athletics",
+        "Intimidate",
+        "Perform",
+        "Tempt",
+        "Theft"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Whaler",
+      "description": "You sail the frozen seas of Ussura with spears and boats tracking the most dangerous sea life.",
+      "quirk": "Earn a Hero Point when you face a creature that could swallow a man whole.",
+      "advantages": [
+        "Able Drinker",
+        "Sea Legs",
+        "Patron"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Notice",
+        "Sailing",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Bearsark",
+      "description": "You fight with a nearly uncontrollable, trance-like fury.",
+      "quirk": "Earn a Hero Point when you let the Game Master choose your character's next action.",
+      "advantages": [
+        "Hard to Kill",
+        "Able Drinker"
+      ],
+      "skills": [
+        "Brawl",
+        "Intimidate",
+        "Sailing",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Guildmästaren",
+      "description": "You serve on the Vendel League and manage Guilds in some capacity.",
+      "quirk": "Earn a Hero Point when you use the vast resources of the Vendel League for something more noble than profit.",
+      "advantages": [
+        "Masterpiece Crafter",
+        "Rich"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Ride",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Sjørøver (Pirate)",
+      "description": "You give honor to the ancient Vestenmennavenjar heritage of naval combat, raiding, and pillaging.",
+      "quirk": "Earn a Hero Point when put yourself in danger in order to ensure your place of honor at the Allfather’s table.",
+      "advantages": [
+        "I'm Taking You With Me",
+        "Staredown"
+      ],
+      "skills": [
+        "Brawl",
+        "Intimidate",
+        "Notice",
+        "Sailing",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Skald",
+      "description": "You interpret the mysteries of the bonfire and the bones, sharing tales of glory and defeat.",
+      "quirk": "Earn a Hero Point when you use your knowledge as a Seidr to help another Hero to solve a problem or thwart a Villain.",
+      "advantages": [
+        "Seidr",
+        "Sea Legs"
+      ],
+      "skills": [
+        "Brawl",
+        "Intimidate",
+        "Perform",
+        "Sailing",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Bravo",
+      "description": "You have sworn to protect someone else and will always be at his side.",
+      "quirk": "Earn a Hero Point when you put yourself in danger to defend the life of the person you’ve sworn to protect.",
+      "advantages": [
+        "Poison Immunity",
+        "Hard to Kill"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Intimidate",
+        "Notice",
+        "Weaponry"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vodacce"
+    },
+    {
+      "name": "Consigliere",
+      "description": "You work as an “advisor” to a Merchant Prince.",
+      "quirk": "Earn a Hero Point when you take a great risk to protect someone else’s secret.",
+      "advantages": [
+        "We're Not So Different...",
+        "Streetwise"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Notice",
+        "Ride",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vodacce"
+    },
+    {
+      "name": "Esploratore",
+      "description": "You travel the world on behalf of a Merchant Prince.",
+      "quirk": "Earn a Hero Point when you use non-Théan items or knowledge to solve a problem.",
+      "advantages": [
+        "Lyceum",
+        "Linguist"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Sailing",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vodacce"
+    },
+    {
+      "name": "Sorte Strega",
+      "description": "You can sense the strands of Fate, twisting and controlling them to your will... but not without a price.",
+      "quirk": "Earn a Hero Point when you commit to a dangerous course of action that you believe is destiny.",
+      "advantages": [
+        "Sorcery",
+        "Sorcery",
+        "Time Sense"
+      ],
+      "skills": [
+        "Convince",
+        "Hide",
+        "Perform",
+        "Ride",
+        "Tempt"
+      ],
+      "book": "core",
+      "page": 145,
+      "nation": "Vodacce",
+      "restriction": "female"
+    },
+    {
+      "name": "Sidhe Squire",
+      "description": "The Sidhe have returned to Avalon, and it falls to you to make certain their return is as peaceful as it can be.",
+      "quirk": "Earn a Hero Point when you go out of your way to bridge the gap between Sidhe and mortal, leading to under- standing between the two peoples.",
+      "advantages": [
+        "An Honest Misunderstanding",
+        "Sorcery (Glamour)"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Ride",
+        "Scholarship",
+        "Weaponry"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Glamour Isles"
+    },
+    {
+      "name": "Royal Conservationist",
+      "description": "Avalon is a beautiful land, and the Queen has entrusted you to ensure it stays that way.",
+      "quirk": "Earn a Hero Point when you seek to preserve a natural wonder and doing so gets you into trouble.",
+      "advantages": [
+        "Direction Sense",
+        "Sniper",
+        "Trigger Control"
+      ],
+      "skills": [
+        "Aim",
+        "Athletics",
+        "Empathy",
+        "Notice",
+        "Scholarship"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Avalon"
+    },
+    {
+      "name": "Shannagary Runner",
+      "description": "A skilled sailor can safely guide his ship down the Shannagary in three days. You can do it in two, with a few scratches.",
+      "quirk": "Earn a Hero Point when you sacrifice safety for speed and doing so gets you into trouble.",
+      "advantages": [
+        "Catch the Wind",
+        "Married to the Sea"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Notice",
+        "Sailing",
+        "Warfare"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Highland Marches"
+    },
+    {
+      "name": "Dornálaí",
+      "description": "\"Oi, yerrabig fella. I betchaboxa bit, don'tcha?\"",
+      "quirk": "Earn a Hero Point when you let bygones be bygones after a fight, win or lose, and form a bond with your opponent.",
+      "advantages": [
+        "Able Drinker",
+        "Boxer",
+        "Haymaker"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Convince",
+        "Intimidate",
+        "Notice"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Inismore"
+    },
+    {
+      "name": "Boticario",
+      "description": "Science is a beautiful thing.",
+      "quirk": "Earn a Hero Point when you doggedly pursue an alchemical secret, and your persistence gets you into trouble.",
+      "advantages": [
+        "Sorcery (Alquímia)",
+        "Sorcery (Alquímia)",
+        "Cast Iron Stomach"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Hide",
+        "Notice",
+        "Scholarship"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Castille"
+    },
+    {
+      "name": "La Joven Promesa",
+      "description": "You did not win the tournament at el Baile, but you were recognized as someone to be watched.",
+      "quirk": "Earn a Hero Point when you complicate a problem to improve your skills with a sword or expand your reputation.",
+      "advantages": [
+        "Reputation",
+        "Student of Combat"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Notice",
+        "Perform",
+        "Weaponry"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Castille"
+    },
+    {
+      "name": "Sabueso Real",
+      "description": "The enemies of the Royal Detectives insist you're just another of the king's hunting hounds, but they all say it from prison.",
+      "quirk": "Earn a Hero Point when you refuse to act until you have more information, causing even more trouble for you.",
+      "advantages": [
+        "Opportunist",
+        "Streetwise"
+      ],
+      "skills": [
+        "Aim",
+        "Empathy",
+        "Hide",
+        "Notice",
+        "Theft"
+      ],
+      "book": "nations1",
+      "page": 203,
+      "nation": "Castille"
+    },
+    {
+      "name": "Tercio",
+      "description": "You signed up to serve to make a better lot for yourself. That all fell through, but you have not given up hope.",
+      "quirk": "Earn a Hero Point when you take up a cause in pursuit of redemption, a pardon for past crimes or a chance at earning a noble title.",
+      "advantages": [
+        "Fencer",
+        "Survivalist",
+        "Whirlwind of Steel"
+      ],
+      "skills": [
+        "Aim",
+        "Athletics",
+        "Notice",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Castille"
+    },
+    {
+      "name": "Balayeur",
+      "description": "You are a street sweeper by trade, and you bring your own broom that spits metal and eats black powder.",
+      "quirk": "Earn a Hero Point when you successfully maintain control of a chaotic situation while you are outnumbered.",
+      "advantages": [
+        "Deadeye",
+        "Direction Sense",
+        "Fish in a Barrel"
+      ],
+      "skills": [
+        "Aim",
+        "Brawl",
+        "Empathy",
+        "Intimidate",
+        "Notice"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Épée Sanglante",
+      "description": "You learned the art of blade and blood, earning the title of Épée Sanglante along with your peers' admiration and fear.",
+      "quirk": "Earn a Hero Point when you use your opponent’s fear of your ability to avoid a conflict, whether his assumptions about you are correct or not.",
+      "advantages": [
+        "Duelist Academy (DeVore)",
+        "Sorcery (Porté)"
+      ],
+      "skills": [
+        "Athletics",
+        "Intimidate",
+        "Notice",
+        "Scholarship",
+        "Weaponry"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "La Souris du Marché",
+      "description": "You know these streets like the back of your hand.",
+      "quirk": "Earn a Hero Point when you choose to share your ill-gotten gains with someone else, because she needs it more than you do.",
+      "advantages": [
+        "Brush Pass",
+        "This Is My Town"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Hide",
+        "Notice",
+        "Scholarship"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "La Voix des Sans-Voix",
+      "description": "You speak for those who cannot speak for themselves, too weak or too afraid. You are the voice of the voiceless.",
+      "quirk": "Earn a Hero Point when declining a solution that benefits you personally, but is detrimental for those you represent.",
+      "advantages": [
+        "Reputation",
+        "Scathing Indictment"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Notice",
+        "Scholarship"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Walkway Escapee",
+      "description": "You were once trapped in the walkway for an untold span, but you escaped—not that you remember it. In fact, you do not remember your life before that either... yet.",
+      "quirk": "Earn a Hero Point whenever your past comes back to haunt you, and it causes you problems.",
+      "advantages": [
+        "Dynamic Approach",
+        "Valiant Spirit"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Notice",
+        "Tempt"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Montaigne"
+    },
+    {
+      "name": "Hrungnir",
+      "description": "You do not need a sword to be dangerous.",
+      "quirk": "Earn a Hero Point when someone underestimates you due to your lack of a weapon, and you turn his misconception to your advantage.",
+      "advantages": [
+        "Bar Fighter",
+        "Able Drinker",
+        "Anything Can Be a Weapon If You Hold It Right"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Hide",
+        "Intimidate",
+        "Notice"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Murskaaja",
+      "description": "A line of defenders is only as strong as the weakest link. You excel at finding that link and shattering it.",
+      "quirk": "Earn a Hero Point when you hurl yourself headlong into a dangerous situation in order to throw your opponents off-guard.",
+      "advantages": [
+        "Bruiser",
+        "Direction Sense",
+        "Into the Fray"
+      ],
+      "skills": [
+        "Athletics",
+        "Hide",
+        "Ride",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "nations1",
+      "page": 204,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Pankkiiri",
+      "description": "Money talks, and you have quite the vocabulary.",
+      "quirk": "Earn a Hero Point when you use your position or money to bully another character into a course of action, and it gets you into trouble.",
+      "advantages": [
+        "Patron (Vendel League)",
+        "Sweeten the Pot"
+      ],
+      "skills": [
+        "Aim",
+        "Convince",
+        "Empathy",
+        "Sailing",
+        "Scholarship"
+      ],
+      "book": "nations1",
+      "page": 205,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Vala",
+      "description": "The scribes and politicians of today believe words have power. They have no idea how right they are.",
+      "quirk": "Earn a Hero Point when you refuse to solve a problem using magic when it would be easy to do so; the problem is not important enough to wield such power against it.",
+      "advantages": [
+        "Sorcery (Galdr)",
+        "Sorcery (Galdr)",
+        "Linguist"
+      ],
+      "skills": [
+        "Convince",
+        "Intimidate",
+        "Perform",
+        "Ride",
+        "Scholarship"
+      ],
+      "book": "nations1",
+      "page": 205,
+      "nation": "Vestenmennavenjar"
+    },
+    {
+      "name": "Apostat",
+      "description": "You were cast out from your homeland because of what you could do, but you won’t let that stop you from doing what’s right.",
+      "quirk": "Earn a Hero Point when you chose to ally with someone you find personally distasteful in order to accomplish something important.",
+      "advantages": [
+        "Reputation",
+        "Sorcery (Hexenwerk)",
+        "Cast Iron Stomach"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Empathy",
+        "Notice",
+        "Ride"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Befleckte Seele",
+      "description": "There’s something inside of you that’s dark and wicked, always gnawing at the edge of your mind. But power—even when it stems from evil—can be turned to good.",
+      "quirk": "Earn a Hero Point when you use your Monstrous nature to solve a problem and someone shuns you for it.",
+      "advantages": [
+        "Dark Gift"
+      ],
+      "skills": [
+        "Athletics",
+        "Empathy",
+        "Hide",
+        "Ride",
+        "Theft"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Eisenblut",
+      "description": "There is still nobility in Eisen, and there is still iron in your blood.",
+      "quirk": "Earn a Hero Point when you choose to sacrifice something important to you personally for the good of Eisen or its people.",
+      "advantages": [
+        "Imperious Glare",
+        "Rich"
+      ],
+      "skills": [
+        "Empathy",
+        "Intimidate",
+        "Ride",
+        "Scholarship",
+        "Warfare"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Stratege",
+      "description": "You were always excellent at chess when you were a child. Now you understand that the world itself is a chessboard, and you’re still the best in the game.",
+      "quirk": "Earn a Hero Point when you make a critical miscalculation in your plan, and it gets you or your allies into trouble.",
+      "advantages": [
+        "Brains of the Outfit",
+        "Team Player"
+      ],
+      "skills": [
+        "Aim",
+        "Empathy",
+        "Scholarship",
+        "Warfare",
+        "Weaponry"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Eisen"
+    },
+    {
+      "name": "Macher",
+      "description": "Get in, get what you’re after and get out. But you make sure that EVERYONE gets out.",
+      "quirk": "Earn a Hero Point when you choose to reveal yourself to an enemy in order to help another character get out of trouble.",
+      "advantages": [
+        "Specialist (Hide)",
+        "Team Player"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Hide",
+        "Notice",
+        "Theft"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Mówca",
+      "description": "There’s a good soul inside of everyone. Some people just need a little help in finding it.",
+      "quirk": "Earn a Hero Point when you successfully solve a problem by convincing another character to listen to her conscience.",
+      "advantages": [
+        "An Honest Misunderstanding",
+        "Heartfelt Appeal"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Hide",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Rycerz Ludzi",
+      "description": "You are a knight of the people, defending the common citizen from any threat he might face.",
+      "quirk": "Earn a Hero Point when you solve a problem by convincing a group of people to unite and stand up for themselves.",
+      "advantages": [
+        "Flashing Blade",
+        "Leadership",
+        "Linguist"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Notice",
+        "Ride",
+        "Weaponry"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Rycerz Senatu",
+      "description": "You carry the word of the Senat. You are empowered to enact their will and answer only to them.",
+      "quirk": "Earn a Hero Point when you choose to hide something from an authority figure for noble reasons, and it gets you into trouble.",
+      "advantages": [
+        "Born in the Saddle",
+        "Linguist",
+        "Patron (Senat)"
+      ],
+      "skills": [
+        "Athletics",
+        "Convince",
+        "Empathy",
+        "Ride",
+        "Weaponry"
+      ],
+      "book": "nations2",
+      "page": 203,
+      "nation": "Sarmatian Commonwealth"
+    },
+    {
+      "name": "Borets",
+      "description": "You’ve made a name for yourself as an exceptional Ussuran brawler.",
+      "quirk": "Earn a Hero Point when someone recognizes you due to your reputation, and you'd really prefer they didn't.",
+      "advantages": [
+        "Body Blow",
+        "Reputation"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Hide",
+        "Intimidate",
+        "Perform"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Doverchivii Dusha",
+      "description": "You’re a sucker for a good sob story, but you’d rather trust the wrong person than turn away from someone who truly needs you.",
+      "quirk": "Earn a Hero Point when another character gets away with lying to you or manipulating you, and it gets you into trouble.",
+      "advantages": [
+        "Trusting",
+        "Valiant Spirit"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Notice",
+        "Scholarship",
+        "Theft"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Razrushitel",
+      "description": "Why go around when you can go through?",
+      "quirk": "Earn a Hero Point when you commit to a course of action that is loud, direct and lacks any sense of subtlety.",
+      "advantages": [
+        "Strength of Ten",
+        "Wrecking Ball"
+      ],
+      "skills": [
+        "Athletics",
+        "Brawl",
+        "Perform",
+        "Ride",
+        "Warfare"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Tură’s Cursed",
+      "description": "There is more than one path to power. You know this first hand.",
+      "quirk": "Earn a Hero Point when you convince another character to shun authority or act outside of their defined social status, and it gets you into trouble.",
+      "advantages": [
+        "Direction Sense",
+        "Sorcery (Tură's Touch)",
+        "Sorcery (Tură's Touch)"
+      ],
+      "skills": [
+        "Convince",
+        "Hide",
+        "Notice",
+        "Scholarship",
+        "Tempt"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Ussura"
+    },
+    {
+      "name": "Capitano",
+      "description": "With a ship under your feet, the wind at your back and a crew singing shanties, there’s nothing you can’t do.",
+      "quirk": "Earn a Hero Point when you commit to a dangerous course of action because your bravado and ego won't let you turn away.",
+      "advantages": [
+        "Married to the Sea",
+        "O Captain My Captain",
+        "Sea Legs"
+      ],
+      "skills": [
+        "Aim",
+        "Convince",
+        "Empathy",
+        "Intimidate",
+        "Sailing"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Vodacce"
+    },
+    {
+      "name": "Moroso",
+      "description": "What’s the point of romance if it doesn’t come with a little—or a lot—of danger?",
+      "quirk": "Earn a Hero Point when you choose to let another character get away with something because you're romantically interested in him, and it gets you into trouble.",
+      "advantages": [
+        "Flirting with Disaster",
+        "Time Sense"
+      ],
+      "skills": [
+        "Convince",
+        "Hide",
+        "Perform",
+        "Tempt",
+        "Theft"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Vodacce"
+    },
+    {
+      "name": "Pistola Nascosta",
+      "description": "By the time they see the barrel of your pistol, it’s already too late. You hope it doesn’t come to that.",
+      "quirk": "Earn a Hero Point when you solve a problem with the threat of violence, but without having drawn your firearm.",
+      "advantages": [
+        "Fast Draw",
+        "Staredown"
+      ],
+      "skills": [
+        "Aim",
+        "Athletics",
+        "Empathy",
+        "Intimidate",
+        "Tempt"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Vodacce"
+    },
+    {
+      "name": "Wild Strega",
+      "description": "Your magic is unrefined, but no less potent and no less dangerous.",
+      "quirk": "Earn a Hero Point when you choose to help another character using your untrained Sorte powers, and it gets you into trouble.",
+      "advantages": [
+        "Connection",
+        "Foreign Born",
+        "Sorcery (Sorte Untrained)"
+      ],
+      "skills": [
+        "Convince",
+        "Empathy",
+        "Hide",
+        "Perform",
+        "Theft"
+      ],
+      "book": "nations2",
+      "page": 204,
+      "nation": "Vodacce",
+      "restriction": "female"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    },
+    {
+      "name": "",
+      "description": "",
+      "quirk": "",
+      "advantages": [],
+      "skills": [],
+      "book": "",
+      "page": 0,
+      "nation": "all"
+    }
+  ]
+}
