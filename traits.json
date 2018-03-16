@@ -1,0 +1,24 @@
+{
+  "traits": [{
+      "trait": "Brawn",
+      "value": 2
+    },
+    {
+      "trait": "Finesse",
+      "value": 2
+    },
+    {
+      "trait": "Resolve",
+      "value": 2
+    },
+    {
+      "trait": "Wits",
+      "value": 2
+    },
+    {
+      "trait": "Panache",
+      "value": 2
+    }
+  ],
+  "points": 2
+}

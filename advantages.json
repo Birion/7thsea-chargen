@@ -1,0 +1,991 @@
+{
+  "advantages": [{
+      "advantage": "Able Drinker",
+      "description": "Alcohol never adversely affects you, no matter how much you drink.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Cast Iron Stomach",
+      "description": "Spoiled or raw food never negatively affects you, and you still gain required sustenance from it.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Small",
+      "description": "You are smaller than the average Théan. Much smaller. If your small size makes a Risk easier--using Hide to squeeze into a tiny space and escape a guard patrol, or using Athletics to slip between the bars of a jail cell--gain 1 Bonus Die.",
+      "limit": [
+        "Large"
+      ],
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [
+        "innate"
+      ],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Direction Sense",
+      "description": "As long as you have some point of reference, you are never lost. That isn't the same as knowing exactly where you are--if you're knocked unconscious and wake up in a dungeon, you don't necessarily have any idea what city you are in, but if you manage to escape your cell you will never get turned around in the winding tunnels that make up the dungeon.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Survivalist",
+      "description": "If you are in the wilderness, you can forage or hunt and find enough food for yourself and up to five other people. Under extreme circumstances--lost in the middle of a desert, or abandoned in the Ussuran tundra, for example--you find enough food for yourself and up to two other people.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Foreign Born",
+      "description": "Choose a Nation of Théah aside from your own. You were raised there, rather than your blood homeland. For example, if your parents are Castillian but you were raised in Vodacce, you would be Foreign Born [Vodacce]. Any Risk you take that would benefit from your dual heritage--using Convince to negotiate between two merchants who hail from your two cultures, or using Tempt to know just what to say to bribe a border patrol into letting you pass without inspection--gains 1 Bonus Die.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [
+        "innate",
+        "choice"
+      ],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Large",
+      "description": "Gain 1 Bonus Die on any Risk that is easier due to your size--using Athletics to run at full speed even while carrying another Hero, or looming over someone in order to Intimidate them.",
+      "limit": [
+        "Small"
+      ],
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [
+        "innate"
+      ],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Linguist",
+      "description": "You speak, read, and write all Théan languages. Even the dead ones.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Sea Legs",
+      "description": "While aboard a ship, treacherous footing never affects you. You gain 1 Bonus Die on any physical Risk while aboard a ship at sea--engaging in a sword fight on a pitching ship deck, or climbing through the rigging during a storm.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Time Sense",
+      "description": "You always know what time it is. You know how long until the next sunrise or sunset, with less than a one minute margin of error.",
+      "points": [{
+        "nation": "all",
+        "price": 1
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 148
+    },
+    {
+      "advantage": "Barterer",
+      "description": "Spend a Hero Point to convince someone to cut you a deal, give you a reasonable discount, or assure someone who knows you that \"you're good for it.\"",
+      "points": [{
+          "nation": "Glamour Islands",
+          "price": 1
+        },
+        {
+          "nation": "all",
+          "price": 2
+        }
+      ],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Fascinate",
+      "description": "Spend a Hero Point to capture the attention of another character. That character pays attention only to you until the end of the Scene or until you cease speaking/paying attention, whichever comes first.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Friend at Court",
+      "description": "When you are at a ball, feast, or similar high society function, spend a Hero Point to reveal you have a close friend also in attendance.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Come Hither",
+      "description": "Spend a Hero Point to lure another character into a private room and later leave said private room without him, removing him from the scene. He may be rescued after you're long gone.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Got It!",
+      "description": "Spend a Hero Point to immediately pick a lock, crack a safe, or disarm a trap.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Connection",
+      "description": "You have connections who can give you information or help you out when you need it. Choose a type of contact--\"Freiburg underworld,\" \"Five Sails city watch,\" or \"Vodacce high society courtiers,\" for example. You can always make contact with someone of that type who will give you basic information or help you in some minor way, so long as it doesn't cost them anything or put them in danger. If you want more hard-to-find information or a dangerous favor, you must spend a Hero Point or agree to a cost that your connection stipulates, such as paying them money or agreeing to do a favor for them in return.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Disarming Smile",
+      "description": "Spend a Hero Point to keep another character from drawing a weapon, starting a fight, or resorting to violence. She will still defend herself, but she will not start any violent conflicts.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Eagle Eyes",
+      "description": "As long as you have a clear line of sight, you can see perfectly out to a distance of one mile. If you use a spyglass you can even pick out fine details, such as the inscription carved into a wedding band. If you make a Risk that relies heavily on your keen vision, you gain 1 Bonus Die.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Extended Family",
+      "description": "Spend a Hero Point to reveal you have a distant cousin who lives nearby and can help you with materials, information, or shelter.",
+      "points": [{
+        "nation": "Ussura",
+        "price": 1
+      }, {
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Handy",
+      "description": "Spend a Hero Point to repair a broken item, rig a damaged gun, patch a leaky ship, or perform similar miracles, causing the object to function normally for the rest of the Scene. At the end of the Scene--or if the object suffers any additional damage--the object becomes unusable until you have time to perform serious repairs with the proper tools.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Indomitable Will",
+      "description": "After another character attempts to intimidate, seduce, or otherwise goad you, spend a Hero Point to automatically resist.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Inspire Generosity",
+      "description": "Spend a Hero Point to convince another character to grant you an object you want at no cost. They might give you something they already have or go to some lengths--legal or illegal--to procure the item, whatever is the easiest way for them to get their hands on what you want.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Leadership",
+      "description": "Spend a Hero Point to inspire a group to action. The group must be able to hear you, but if they can and they are of neutral or better disposition, they will do whatever you command so long as it is reasonable--they are unlikely to all throw themselves off a bridge to certain death, for example.",
+      "points": [{
+        "nation": "Sarmatia",
+        "price": 1
+      }, {
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 149
+    },
+    {
+      "advantage": "Second Story Work",
+      "description": "You can spend a Hero Point to locate a way into a building or restricted area. You can bring up to one other character along with you, but everyone else has to find their own way in--or wait for you to open a path for them.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Slip Free",
+      "description": "Spend a Hero Point to slip your hands free from manacles, loosen the rope tying you to a chair, or similarly free yourself.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Married to the Sea",
+      "description": "You have access to a Ship. If you and your allies already have access to a Ship, your Ship gains an additional Background. See the Sailing chapter for more information.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Perfect Balance",
+      "description": "Spend a Hero Point to move across a thin beam, jump from one place to another, or otherwise perform a feat of perfect agility and balance.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Poison Immunity",
+      "description": "Poison never affects you, aside from some potential mild discomfort. If the poison would ordinarily kill you, it might cause you only to vomit instead, but there are no additional effects.",
+      "points": [{
+        "nation": "Vodacce",
+        "price": 1
+      }, {
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Psst, Over Here",
+      "description": "While undetected, you can spend a Hero Point to lure a single character out of position and knock him out. Any other characters in the area remain unaware of your presence.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Reckless Takedown",
+      "description": "Spend a Hero Point to immediately defeat a single Brute Squad, regardless of its Strength. You immediately take 1 Dramatic Wound.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Sorcery",
+      "description": "You gain the Sorcery from your National bloodline. If you purchase this Advantage after Hero Creation, you may only do so with a Hero Story. See the Sorcery chapter for more information.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "choice",
+        "multi"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Staredown",
+      "description": "Spend a Hero Point to intimidate a character into backing down from a threat, letting you into somewhere he shouldn't, or otherwise getting out of your way.",
+      "points": [{
+        "nation": "Eisen",
+        "price": 1
+      }, {
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Streetwise",
+      "description": "You can spend a Hero Point to locate a fixer, an infor- mation broker, a black market, or a similar underworld figure.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Team Player",
+      "description": "When you spend a Raise to create an Opportunity, you can spend a second Raise. If you do, you activate the Opportunity on behalf of another willing Hero--she doesn't need to spend her own Raise.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Valiant Spirit",
+      "description": "You begin each game with 2 Hero Points instead of 1.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "Reputation",
+      "description": "You determine what your Reputation is with a single adjective--\"Honorable,\" \"Vicious,\" etc.--When you use your reputation to your advantage in a social Risk, you gain 1 Bonus Die. A Hero can buy this Advantage multiple times. Each time she does, she can choose to gain either a new Reputation or to increase the number of Bonus Dice she gains when she invokes her existing Reputation.",
+      "points": [{
+        "nation": "all",
+        "price": 2
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 150
+    },
+    {
+      "advantage": "An Honest Misunderstanding",
+      "description": "Spend a Hero Point to edit, redact, or otherwise alter something you or another Hero just said, \"reinterpreting\" the words into the kindest compliment.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Bar Fighter",
+      "description": "You gain 1 Bonus Die when you make a Brawling Risk to fight using an upturned table, a barstool, a plank of wood or some other improvised weapon.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Boxer",
+      "description": "You gain 1 Bonus Die when you make a Brawling Risk to punch, kick, headbutt or otherwise injure another character using nothing but your own body.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Bruiser",
+      "description": "You gain 1 Bonus Die when you make a Weaponry Risk using a claymore, zweihander, battle axe, halberd or similar weapon in both hands.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Foul Weather Jack",
+      "description": "Your Hero gains a second Story. You create this Story in the same manner as all other Hero Stories, and its progression and rewards are determined independently. When this Story is completed, you may write a new one.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Brush Pass",
+      "description": "Spend a Hero Point to pick a pocket, steal a ring from another character's finger, or plant a small hand-held item on another character without him noticing.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Camaraderie",
+      "description": "Whenever you spend a Hero Point to aid an ally, they gain four dice instead of three.",
+      "points": [{
+        "nation": "Montaigne",
+        "price": 2
+      }, {
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Deadeye",
+      "description": "You gain 1 Bonus Die when you make an Aim Risk using a pistol, blunderbuss, or a thrown weapon such as a knife or axe.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Dynamic Approach",
+      "description": "Spend a Hero Point to change your Approach during an Action Sequence or Dramatic Sequence.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Fencer",
+      "description": "You gain 1 Bonus Die when you make a Weaponry Risk using a rapier, dagger, cutlass or similar weapon in one hand.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Masterpiece Crafter",
+      "description": "Choose one type of item--weapons, armor, paintings, etc. When you create such an item, you may increase the time you work on it in order to create an item of greater quality. If you are using typical, mundane materials, this has no additional effect aside from cosmetic--the item is noticeably higher quality than similar items, and may even bear your mark, earn you notoriety for your fine work, draw a higher price if it is for sale, etc. If you use exotic materials--such as creating a sword using metal from a fallen star, for example--you can create a Signature Item for yourself or another Hero. The time required to create a Signature Item, and whether or not a material is \"special\" enough to qualify, is always a GM's discretion.",
+      "points": [{
+        "nation": "Vestenmennavenjar",
+        "price": 2
+      }, {
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 151
+    },
+    {
+      "advantage": "Opportunist",
+      "description": "When another Hero spends a Raise to create an Opportunity, you can spend a Hero Point to immediately activate the Opportunity for yourself.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Ordained",
+      "description": "You can expect refuge, a place to stay, and hot meals in any church. You also have access to many--but not all--of the Church's libraries. Finally, you gain two dice for any social Risks against characters who are adherents to your faith.",
+      "points": [{
+        "nation": "Castille",
+        "price": 2
+      }, {
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Patron",
+      "description": "You have a patron, either an individual or an organization, who appreciates your work and supplies you with steady employment. You begin each session with 1 Wealth. You may spend a Hero Point to call in a favor from your Patron. This favor is typically political or mercantile in some way--your Patron might provide you a letter of introduction, or pull strings to get you into an exclusive party, etc. Your Patron may ask you for favors or have other expectations for you, such as expecting you to produce goods or art on her behalf if you are an artist or aiding the populace in her name if you are a knight.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Quick Reflexes",
+      "description": "Choose one Skill. You always take actions as if you had an additional Raise to spend when you use that Skill. For example, if a Hero has Quick Reflexes with Weaponry and rolls 3 Raises with that Skill, she takes her first Action on 4 Raises. If she spends 1 Raise to take an action (and so has 2 Raises remaining) her next Action occurs on 3 Raises. A Hero can buy this Advantage multiple times. Each time they do, they choose a different Skill.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Rich",
+      "description": "You begin each session with 3 Wealth.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Signature Item",
+      "description": "Choose a specific item that is important to you. Describe it, decide why it is important, and maybe even give it a name. You can always spend a Hero Point to...[p]- have your Signature Item appear in the next scene if you lose it or it is stolen.[p]- gain 2 Bonus Dice on a Risk when using your Signature Item.[p]- attack a foe to deal Wounds equal to the Raises you spend plus your highest Trait when using the Signature Item.[p]- prevent a number of Wounds equal to the Raises you spend plus your highest Trait when using the Signature item.[p]You must always describe how your Signature Item helps you, and it must make sense for the item to gain you any bonuses in this way (GM discretion).",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Sniper",
+      "description": "You gain 1 Bonus Die when you make an Aim Risk using a long-barrelled musket, longbow, or crossbow.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Tenure",
+      "description": "You can expect refuge, a place to stay, and hot meals in any university. You also have access to many--but not all--of a university's libraries simply by requesting it. Finally, you gain 2 Bonus Dice for any social Risks against characters who are members of an institution of higher learning or who respect such an education.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Virtuoso",
+      "description": "Choose a specific Performance type, such as singing, playing a specific musical instrument, or dancing. You gain 1 Bonus Die when you make a Perform Risk using that art.",
+      "points": [{
+        "nation": "all",
+        "price": 3
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 152
+    },
+    {
+      "advantage": "Academy",
+      "description": "You studied strategy, horsemanship, and soldiering at one of Théah's many military academies. When you make a Risk using Athletics, Warfare or Ride, all of your dice gain +1 to their value.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [
+        "innate"
+      ],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Alchemist",
+      "description": "Spend a Hero Point to produce an elixir or potion that provides an immediate benefit. Using the alchemical concoction requires a Raise during an Action Sequence or a Dramatic Sequence. These are some examples of uses for alchemical concoctions. There may be others. If you want to create one of your own, consult with your GM.[p][b]Explosion[/b]: The concoction causes an explosion of choking smoke and fire, creating an Opportunity you and others can use to escape the Scene.[p][b]Enhancement[/b]: You gain 1 Rank in 1 Trait for 1 Round.[p][b]Oil[/b]: Anything covered with the concoction is slick and nearly impossible to hold. If poured on the floor, anyone walking or running on the surface will slip and fall. If poured down a wall, anyone trying to climb the wall slips and falls as well.",
+      "points": [{
+        "nation": "Castille",
+        "price": 4
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Hard to Kill",
+      "description": "You no longer become Helpless when you have four Dramatic Wounds. Instead, when you have four Dramatic Wounds any Villain who takes a Risk against you gains 3 Bonus Dice (rather than 2). You gain an additional tier of Wounds. When you have taken your fifth Dramatic Wound, you become Helpless.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Legendary Trait",
+      "description": "Choose a Trait. Whenever you roll a Risk using that Trait, you remove one die from your pool before you roll. That die is always considered to roll a 10. If your 10s explode, your free Legendary Trait 10 explodes as well.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Lyceum",
+      "description": "You studied rhetoric and debate, and refined your social graces at one of Théah's many lyceums, finishing schools typically reserved for the social and noble elite. When you make a Risk using Convince, Intimidate, or Tempt, all of your dice gain +1 to their value.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [
+        "innate"
+      ],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Miracle Worker",
+      "description": "Perhaps it was study with the Church or a local shaman, but you know wounds and how to deal with them. Spend a Hero Point and 1 Raise on your Action to heal another Hero: they regain 1 Dramatic Wound. You must be able to touch the Hero you are healing.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Riot Breaker",
+      "description": "You're used to your opponents coming in double digits. When you take Wounds from a Brute Squad, subtract your Resolve from the Wounds. The remainder is how many Wounds you take, to a minimum of 1 Wound.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Seidr",
+      "description": "You have studied under a Vesten Skald. You learned how to see the Names of things, how to know the future based on how the flames of a bonfire dance, and how to guide the passions of people either to laud your heroes or deride your enemies.[p]Spend a Hero Point and make a speech about another character. He gains a 1 Rank Reputation (as the Advantage of the same name) of your choice, increases an existing Reputation by 1 Rank, or you change their Reputation to a different Reputation of your choice (but the Rank remains the same). If you change a character's existing Reputation, anyone who uses the new Reputation against him gains Bonus Dice equal to that Reputation's Rank.[p]Spend a Hero Point to cast runes, dice, or bones. When you do so, ask the GM a single yes or no question about the future. The GM must answer honestly, but only needs to respond yes or no. If the event in question can be changed by the actions of others, such as whether or not a person will die, then the answer given represents the outcome that is currently most likely, but otherwise this power is never wrong.[p]Spend a Hero Point when you look at another mortal human. You know that person's name. No disguise can hide the name from you, nor will you believe any lie designed to obscure the name. For the rest of the Scene, you always recognize it, no matter how it changes.",
+      "points": [{
+        "nation": "Vestenmennavenjar",
+        "price": 4
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 153
+    },
+    {
+      "advantage": "Specialist",
+      "description": "When you purchase this Advantage, choose a Skill that you have at least 3 Ranks in to become your Specialist Skill. When you make a Risk using any other Skill during an Action or Dramatic Sequence, you do not have to pay additional Raises to Improvise with your Specialist Skill. A Hero can only have a single Specialist Skill; purchasing this Advantage again lets you choose a new Specialist Skill, but you lose your old one.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [
+        "choice"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "Trusted Companion",
+      "description": "You have a small group of individuals who are devoted to you, or a single trusted ally who would walk through fire for you (a bodyguard, a horse, etc.). If your allies directly aid you in a Risk, you gain a Bonus Die if you describe specifically how they aid you. If you send them out to accomplish something else and they need to make a Risk (GM discretion), they roll five dice. Your Trusted Companion can take 5 Wounds before he becomes Helpless, and will more than likely require you to rescue him.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "University",
+      "description": "You attended one of Théah's formal universities and are familiar with many academic fields of study such as mathematics, architecture, and astronomy. When you make a Risk using Scholarship, Empathy, or Notice, all of your dice gain +1 to their value.",
+      "points": [{
+        "nation": "all",
+        "price": 4
+      }],
+      "specials": [
+        "innate"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "Duelist Academy",
+      "description": "You may choose a Dueling Style. If you purchase this Advantage again, you gain an additional Dueling Style. See the Dueling chapter for more information.",
+      "points": [{
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "choice",
+        "multi"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "I Won't Die Here",
+      "description": "Spend a Hero Point to ignore all negative effects from Dramatic Wounds for the round--the Villain does not gain Bonus Dice if you have 2 Dramatic Wounds, and you do not become Helpless at 4 Dramatic Wounds.",
+      "points": [{
+        "nation": "Eisen",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "I'm Taking You with Me",
+      "description": "Spend a Hero Point to have all damage that you do this Round increased by the number of Dramatic Wounds you have.",
+      "points": [{
+        "nation": "Vestenmennavenjar",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "Joie de Vivre",
+      "description": "Just before a confrontation with a Villain occurs, spend a Hero Point and make some sort of pithy or clever comment about how \"When things look darkest, that's when souls shine brightest.\" Each Hero--that hears the speech--counts all dice that roll equal to or under his Skill on his next roll as 10s.",
+      "points": [{
+        "nation": "Montaigne",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "Spark of Genius",
+      "description": "Choose a specific field of academic study (astronomy, mathematics, architecture, history, etc). When you make a Risk and call on your specialized field of study, spend a Hero Point to gain additional Raises equal to your Wits.",
+      "points": [{
+        "nation": "Castille",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack",
+        "choice"
+      ],
+      "book": "core",
+      "page": 154
+    },
+    {
+      "advantage": "Strength of Ten",
+      "description": "When you perform a feat of raw strength (lifting a castle portcullis, holding a door closed against a battering ram on the other side, etc.), spend a Hero Point to increase all of your individual dice for that Risk by your Brawn or your Resolve, whichever is greater. For example, if you are trying to keep a crumbling wall from collapsing so that your friends can escape, spend a Hero Point to increase the number on each of your individual dice by your Brawn score.",
+      "points": [{
+        "nation": "Ussura",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 155
+    },
+    {
+      "advantage": "Together We Are Strong",
+      "description": "Spend a Hero Point to give any number of your Raises to another Hero in the same scene, as long as they can see or hear you.",
+      "points": [{
+        "nation": "Sarmatia",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 155
+    },
+    {
+      "advantage": "The Devil's Own Luck",
+      "description": "Spend a Hero Point after you take a Risk to Re-Roll any number of dice you wish. You must keep the new roll, unless you have a different effect that allows you to Re-Roll dice. You can only use this Advantage once per Scene.",
+      "points": [{
+        "nation": "Glamour Isles",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ],
+      "book": "core",
+      "page": 155
+    },
+    {
+      "advantage": "We're Not So Different...",
+      "description": "Spend a Hero Point to convince a Villain you are on her side. The Villain considers you a trusted ally. As soon as the Villain sees you perform a Heroic action or if you refuse to perform a Villainous action, the illusion is over. You can only use this Advantage on each Villain once. \"Fool me once...\"",
+      "points": [{
+        "nation": "Vodacce",
+        "price": 3
+      }, {
+        "nation": "all",
+        "price": 5
+      }],
+      "specials": [
+        "knack"
+      ]
+    }
+  ]
+}
