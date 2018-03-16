@@ -1,0 +1,419 @@
+{
+  "arcana": [{
+      "arcana": "The Fool",
+      "virtue": {
+        "virtue": "Wily",
+        "description": "Activate your Virtue to escape danger from the current Scene. You cannot rescue anyone but yourself."
+      },
+      "hubris": {
+        "hubris": "Curious",
+        "description": "You receive a Hero Point when you investigate something unusual, especially if it looks dangerous."
+      },
+      "book": "core",
+      "page": 156
+    },
+    {
+      "arcana": "The Road",
+      "virtue": {
+        "virtue": "Friendly",
+        "description": "Activate your Virtue when you meet a character (even a Villain) for the first time. She treats you as friendly for one scene."
+      },
+      "hubris": {
+        "hubris": "Underconfident",
+        "description": "You receive a Hero Point when your Hero decides he cannot take an action without help from another Hero—insisting another Hero spend a Hero Point to give you Bonus Dice, or asking her to use one of her Advantages to aid you, for example."
+      },
+      "book": "core",
+      "page": 156
+    },
+    {
+      "arcana": "The Magician",
+      "virtue": {
+        "virtue": "Willful",
+        "description": "Activate your Virtue and target a Villain. Until the end of this Scene, you cannot spend Hero Points and the Villain cannot spend Danger Points."
+      },
+      "hubris": {
+        "hubris": "Ambitious",
+        "description": "You receive a Hero Point when you chase after power and the deal you’re after is dangerous or causes trouble."
+      },
+      "book": "core",
+      "page": 156
+    },
+    {
+      "arcana": "The Lovers",
+      "virtue": {
+        "virtue": "Passionate",
+        "description": "Activate your Virtue when another Hero takes Wounds to prevent her from suffering those Wounds. You take one Dramatic Wound instead."
+      },
+      "hubris": {
+        "hubris": "Star-Crossed",
+        "description": "You receive a Hero Point when your Hero becomes enamored with someone she really shouldn’t."
+      },
+      "book": "core",
+      "page": 156
+    },
+    {
+      "arcana": "The Wheel",
+      "virtue": {
+        "virtue": "Fortunate",
+        "description": "Activate your Virtue to delay an Opportunity or a Consequence by 1 Action."
+      },
+      "hubris": {
+        "hubris": "Unfortunate",
+        "description": "You receive 2 Hero Points when you choose to fail an important Risk before rolling."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The Devil",
+      "virtue": {
+        "virtue": "Astute",
+        "description": "Activate your Virtue after a Villain spends Raises for an Action. That Action fails. The Villain still loses the Raises she spent."
+      },
+      "hubris": {
+        "hubris": "Trusting",
+        "description": "You receive a Hero Point when you accept someone’s lies or lopsided deal."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The Tower",
+      "virtue": {
+        "virtue": "Humble",
+        "description": "Activate your Virtue to gain 2 Hero points instead of 1 when you activate your Hubris or trigger a Quirk."
+      },
+      "hubris": {
+        "hubris": "Arrogant",
+        "description": "You receive a Hero Point when your Hero shows disdain, contempt, or otherwise looks down on a Villain or someone who could cause harm to friends."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The Beggar",
+      "virtue": {
+        "virtue": "Insightful",
+        "description": "Activate your Virtue to discover a Brute Squad’s type, or to know a Villain’s Rank and Advantages."
+      },
+      "hubris": {
+        "hubris": "Envious",
+        "description": "You receive a Hero Point when your Hero covets something, and does something unwise to get it."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The Witch",
+      "virtue": {
+        "virtue": "Intuitive",
+        "description": "Activate your Virtue to ask the GM one yes or no question about an NPC. The GM must answer honestly and should be generous—for example, if there is a qualifier, he should tell you and explain more fully."
+      },
+      "hubris": {
+        "hubris": "Manipulative",
+        "description": "You receive a Hero Point when you try to get someone else to do your dirty work for you, and it backfires."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The War",
+      "virtue": {
+        "virtue": "Victorious",
+        "description": "Activate your Virtue the first time you Wound a Villain during a fight to make her take a Dramatic Wound in addition to the Wounds you normally deal."
+      },
+      "hubris": {
+        "hubris": "Loyal",
+        "description": "You receive a Hero Point when your Hero goes back for a fallen comrade or refuses to leave a wounded ally."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The Hanged Man",
+      "virtue": {
+        "virtue": "Altruistic",
+        "description": "Activate your Virtue to suffer a Risk’s Consequences in place of another Hero."
+      },
+      "hubris": {
+        "hubris": "Indecisive",
+        "description": "You receive a Hero Point when your Hero takes an Action to pause in hesitation, doubt, or uncertainty before she makes a move."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "Coins (for the Ferryman)",
+      "virtue": {
+        "virtue": "Adaptable",
+        "description": "Activate your Virtue to take your first Action before anyone else in a Round."
+      },
+      "hubris": {
+        "hubris": "Relentless",
+        "description": "You receive a Hero Point when you refuse to leave well enough alone or quit while you’re ahead, and it gets you into trouble."
+      },
+      "book": "core",
+      "page": 157
+    },
+    {
+      "arcana": "The Thrones",
+      "virtue": {
+        "virtue": "Comforting",
+        "description": "Activate your Virtue to cancel the effects of Fear on you and your friends."
+      },
+      "hubris": {
+        "hubris": "Stubborn",
+        "description": "You receive a Hero Point when your Hero is stubborn and refuses to change her mind in the face of evidence."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Moonless Night",
+      "virtue": {
+        "virtue": "Subtle",
+        "description": "Activate your Virtue when you act behind the scenes, from the shadows, or through a proxy. For the next Risk, when you determine Raises, every die counts as a Raise."
+      },
+      "hubris": {
+        "hubris": "Confusion",
+        "description": "You receive a Hero Point when your Hero fails to understand an important plot element and that misunderstanding leads to danger for herself or others."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Sun",
+      "virtue": {
+        "virtue": "Glorious",
+        "description": "Activate your Virtue when you are the center of attention. For the next Risk, when you determine Raises, every die counts as a Raise."
+      },
+      "hubris": {
+        "hubris": "Proud",
+        "description": "You receive a Hero Point when your Hero refuses an offer of aid—for example, if a Hero tries to spend a Hero Point to give you Bonus Dice and you turn them down."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Prophet",
+      "virtue": {
+        "virtue": "Illuminating",
+        "description": "Activate your Virtue to know whenever any other character lies to you until the end of the Scene."
+      },
+      "hubris": {
+        "hubris": "Overzealous",
+        "description": "You receive a Hero Point when your Hero strongly defends one of her opinions when the time or place is inappropriate."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "Reunion",
+      "virtue": {
+        "virtue": "Exemplary",
+        "description": "Activate your Virtue and choose another Hero in the same scene to pool your Raises for the round, spending Raises to take Actions from your shared pool."
+      },
+      "hubris": {
+        "hubris": "Bitterness",
+        "description": "You receive a Hero Point when you bring up old grudges or bad feelings when doing so will lead to trouble."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Hero",
+      "virtue": {
+        "virtue": "Courageous",
+        "description": "Activate your Virtue to add Bonus Dice to your Risk equal to the Fear rating of your target."
+      },
+      "hubris": {
+        "hubris": "Foolhardy",
+        "description": "You receive a Hero Point when your brash, cocky, or reckless actions cause trouble for you and another Hero."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Glyph",
+      "virtue": {
+        "virtue": "Temperate",
+        "description": "Activate your Virtue to prevent any magical effect (Sorcery, Artifacts, Monsters, etc.) from affecting you."
+      },
+      "hubris": {
+        "hubris": "Superstitious",
+        "description": "You receive a Hero Point when you refuse to solve a problem using Sorcery, an artifact, or some other mystical effect that you don’t trust."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Emperor",
+      "virtue": {
+        "virtue": "Commanding",
+        "description": "Activate your Virtue. The GM gives a Hero Point to all other Heroes in this Scene."
+      },
+      "hubris": {
+        "hubris": "Hot-Headed",
+        "description": "You receive a Hero Point when your Hero flies off the handle and loses her temper, causing trouble."
+      },
+      "book": "core",
+      "page": 158
+    },
+    {
+      "arcana": "The Devil Jonah",
+      "virtue": {
+        "virtue": "Vengeful",
+        "description": "Activate your Virtue when you enact poetic justice, make someone pay his due or force someone to follow through on a bargain. For the next Risk, when you determine Raises, every die counts as a Raise."
+      },
+      "hubris": {
+        "hubris": "Petty",
+        "description": "You receive a Hero Point when you refuse to aid someone until she begs youfor help or when you otherwise demonstrate your petty, vengeful nature."
+      },
+      "book": "pirate",
+      "page": 154
+    },
+    {
+      "arcana": "The Drowned Man",
+      "virtue": {
+        "virtue": "Tenacious",
+        "description": "Activate your Virtue when you would be killed. Through some twist of fate or circumstance you survive, but are immediately and forcibly removed from the Scene."
+      },
+      "hubris": {
+        "hubris": "Doomed",
+        "description": "Activate your Hubris when you take 1 or more Dramatic Wounds. You gain a Hero Point for each Dramatic Wound you just endured."
+      },
+      "book": "pirate",
+      "page": 154
+    },
+    {
+      "arcana": "The Fisherman",
+      "virtue": {
+        "virtue": "Humble",
+        "description": "Activate your Virtue after you roll dice for a Risk. You lose half of your Raises. All other Heroes in the Scene with you gain as many Raises as you lost."
+      },
+      "hubris": {
+        "hubris": "Timid",
+        "description": "You receive a Hero Point when you avoid the spotlight, insist that you're nothing more than a simple man or refuse to take credit for something that would be advantageous for you to claim as your own work."
+      },
+      "book": "pirate",
+      "page": 154
+    },
+    {
+      "arcana": "The Mountain",
+      "virtue": {
+        "virtue": "Enduring",
+        "description": "Activate your Virtue when you receive your fourth Dramatic Wound. For the remainder of the round you may act normally and are not considered Helpless."
+      },
+      "hubris": {
+        "hubris": "Immovable",
+        "description": "You receive a Hero Point when your character hears of someone else’s troubles and does not act on it."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The River",
+      "virtue": {
+        "virtue": "Adaptable",
+        "description": "Activate your Virtue when you are put under Pressure. You do not need to spend an additional Raise to take a different Action."
+      },
+      "hubris": {
+        "hubris": "Unregulated",
+        "description": "You receive a Hero Point when you go against an order of someone in a position of authority."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Great Cycle",
+      "virtue": {
+        "virtue": "Alive/Fortunate",
+        "description": "Activate your Virtue to reroll any number of dice when you take a Risk."
+      },
+      "hubris": {
+        "hubris": "Dead/Unfortunate",
+        "description": "You receive a Hero Points when your GM spends a Danger Point and it impacts your character."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Scholar",
+      "virtue": {
+        "virtue": "Knowledgeable",
+        "description": "Activate your Virtue and make a statement about an event either happening in the present or that happened in the past. This statement is always true."
+      },
+      "hubris": {
+        "hubris": "Misinformed",
+        "description": "You receive a Hero Point when you insist to act on information that is unreliable and it turns out poorly."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Skywatcher",
+      "virtue": {
+        "virtue": "Perceptive",
+        "description": "Activate your Virtue after you ask another character a question. You know if the other character lies or tells the truth."
+      },
+      "hubris": {
+        "hubris": "Parochial",
+        "description": "You receive a Hero Point when you refuse to acknowledge another character’s insight and it causes trouble."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Explorer",
+      "virtue": {
+        "virtue": "Brave",
+        "description": "Activate your Virtue when you are affected by Fear when rolling a Risk. During that Risk your 10’s explode. If your 10’s already explode due to a different effect your 9’s explode as well."
+      },
+      "hubris": {
+        "hubris": "Impulsive",
+        "description": "You receive a Hero Point when you choose to act without all available information and it leads you to trouble."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Morning Star",
+      "virtue": {
+        "virtue": "Captivating",
+        "description": "Activate your Virtue to force all Actions performed against your allies for the remainder of the round to be performed against you."
+      },
+      "hubris": {
+        "hubris": "Pretentious",
+        "description": "You receive a Hero Point when you refuse to take part in an action because you feel doing so would be beneath you."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Evening Star",
+      "virtue": {
+        "virtue": "Steady/Consistent",
+        "description": "Activate your Virtue when you spend a Hero Point to aid an ally. That Hero gains two additional dice."
+      },
+      "hubris": {
+        "hubris": "Stubborn",
+        "description": "You receive a Hero Point when you put your foot down on a subject and it causes trouble."
+      },
+      "book": "new-world",
+      "page": 168
+    },
+    {
+      "arcana": "The Ceiba",
+      "virtue": {
+        "virtue": "Strong",
+        "description": "Activate your Virtue when the GM spends a Danger Point. The Danger Point has no effect but is still spent."
+      },
+      "hubris": {
+        "hubris": "Guarded",
+        "description": "You receive a Hero Point when you withhold information from your allies and sharing that information would be to your benefit."
+      },
+      "book": "new-world",
+      "page": 169
+    }
+  ]
+}
