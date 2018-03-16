@@ -178,7 +178,9 @@
   }, {
     "advantage": "Dynamic Approach",
     "description": "Spend a Hero Point to change your Approach during an Action Sequence or Dramatic Sequence.",
-    "points": [{
+    "points": [
+{"nation": "La Bucca", "price": 2},
+        {
       "nation": "all",
       "price": 3
     }],
@@ -317,7 +319,11 @@
   }, {
     "advantage": "Indomitable Will",
     "description": "After another character attempts to intimidate, seduce, or otherwise goad you, spend a Hero Point to automatically resist.",
-    "points": [{
+    "points": [
+        {
+        "nation": "Numa",
+        "price": 1},
+        {
       "nation": "all",
       "price": 2
     }],
@@ -404,7 +410,9 @@
   }, {
     "advantage": "Married to the Sea",
     "description": "You have access to a Ship. If you and your allies already have access to a Ship, your Ship gains an additional Background. See the Sailing chapter for more information.",
-    "points": [{
+    "points": [
+        {"nation": "Aragosta", "price": 1},
+        {
       "nation": "all",
       "price": 2
     }],
@@ -807,5 +815,312 @@
       "price": 5
     }],
     "specials": ["knack"]
-  }]
+  },
+{
+"advantage": "Anything Can Be a Weapon if You Hold It Right",
+"description": "Your Hero must have the Bar Fighter Advantage in order to purchase this Advantage. When you make a Brawling Risk to fight using an improvised weapon (such as an upturned table, a barstool, a plank of wood, a walking stick, etc), and you spend a Raise to inflict Wounds, you can choose to break your weapon. If you do so, the Wounds you inflict cannot be prevented in any way. You cannot use this Advantage again until the end of the Scene unless you pay a Hero Point to procure a new weapon.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations1", "page": 205},
+{
+"advantage": "Fish in a Barrel",
+"description": "Your Hero must have the Deadeye Advantage in order to purchase this Advantage. When you make an Aim Risk using a pistol, blunderbuss or a thrown weapon such as a knife or axe, spend a Raise to reduce the Strength of a Brute Squad by your Ranks in Finesse.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations1", "page": 205},
+{
+"advantage": "Haymaker",
+"description": "Your Hero must have the Boxer Advantage in order to purchase this Advantage. When you make a Brawl Risk to punch, kick, head-butt or otherwise injure another character using nothing but your own body, you can choose to spend all of your Raises on your first Action. You inflict a number of Wounds equal to the Raises you spend. The character you hit loses half of his current Raises, rounding down.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations1", "page": 205},
+{
+"advantage": "Into the Fray",
+"description": "Your Hero must have the Bruiser Advantage in order to purchase this Advantage. When you make a Weaponry Risk using a claymore, zweihander, battle axe, halberd or similar weapon in both hands, you can choose not to roll dice at the beginning of a Round. If you do so, you eliminate a single Brute Squad regardless of its Strength.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations1", "page": 205},
+{
+"advantage": "Trigger Control",
+"description": "Your Hero must have the Sniper Advantage in order to purchase this Advantage. When you make an Aim Risk using a long-barreled musket, longbow or crossbow, the first time you spend a Raise to inflict a Wound, you may spend a Hero Point to inflict an additional Dramatic Wound. Your victim must be unaware of your presence in order for you to use this Advantage, and once you use this Advantage you cannot activate it again until the end of the Scene.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations1", "page": 205},
+{
+"advantage": "Whirlwind of Steel",
+"description": "Your Hero must have the Fencer Advantage in order to purchase this Advantage. When you make a Weaponry Risk using a rapier, dagger, cutlass or similar weapon in one hand, you can choose not to roll dice at the beginning of a Round. If you do so, you reduce the Strength of all Brute Squads in the Scene to half, rounding down.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations1", "page": 205},
+{
+"advantage": "Adaptive Duelist",
+"description": "Your Hero must know two Dueling Styles to purchase this Advantage. You can spend a Hero Point to switch your chosen Style in the middle of a round, as long as she still meets the requirements of the new Style she adopts (such as the weapon being wielded). You can only use this Advantage once per Round.",
+"points": [{"nation": "all", "price": 2}],
+"specials": [],
+"book": "nations1", "page": 206},
+{
+"advantage": "This Is My Town",
+"description": "Spend a Hero Point when you are in a familiar area to lose a tail, pinpoint a stranger who does not belong here, recognize whether or not you are being followed or find a shortcut.",
+"points": [{"nation": "all", "price": 2}],
+"specials": [],
+"book": "nations1", "page": 206},
+{
+"advantage": "Catch the Wind",
+"description": "You can spend a Hero Point while piloting a Ship to arrive at your destination more quickly. If you do so, your Ship takes one Critical Hit, but you reduce your travel time by a quarter. If you are being pursued over water, you can instead activate this Advantage (paying the same costs as above) to escape your pursuers in a burst of wild nautical speed that should be impossible.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "nations1", "page": 206},
+{
+"advantage": "Scathing Indictment",
+"description": "Spend a Hero Point when you make an Intimidate or Convince Risk to reduce the Strength of any one Brute Squad in the Scene by half, rounding down.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "nations1", "page": 206},
+{
+"advantage": "Student of Combat",
+"description": "You learn the Slash and Parry Maneuvers, as well as one Maneuver (not a Style Bonus) of your choice and can perform these as a Duelist does. The Duelist Academy Advantage is considered a 3-point Advantage for you.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "nations1", "page": 206},
+{
+"advantage": "Sweeten the Pot",
+"description": "Spend 1 Wealth to successfully bribe a character during an Action or Dramatic Sequence without spending a Raise. You can do this once per Sequence",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "nations1", "page": 206},
+{
+"advantage": "Penny Pincher",
+"description": "Your Hero knows how to live on the skinny in order to keep a little something squirreled away for a rainy day. For each time you purchase this Advantage, you can save one Wealth Point between game sessions. This does not create Wealth, it only allows you to save existing Wealth Points.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations2", "page": 205},
+{
+"advantage": "Personal Motto",
+"description": "Your Hero has a catchphrase, adage, or rallying cry that she uses frequently. Choose your personal motto (such as “I’ve got a bad feeling about this” or “We always pay our debts”). Whenever you make a Risk after saying your personal motto, and whenever your personal motto is appropriate, you gain 1 bonus die.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "nations2", "page": 205},
+{
+"advantage": "Born in the Saddle",
+"description": "Spend a Hero Point to make a special maneuver with your horse. You can spur your mount to make an incredible leap, summon your trusted steed to your side (so long as it is physically capable of coming to you) or direct it to evade an enemy’s attack or strike back with hooves and teeth (preventing or dealing Wounds equal to your Ranks in Ride).",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "nations2", "page": 205},
+{
+"advantage": "Heartfelt Appeal",
+"description": "Spend a Hero Point to implore another character to follow her conscience, look the other way for the greater good or otherwise do the right thing when it isn’t in her best interest to do so.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "nations2", "page": 205},
+{
+"advantage": "Imperious Glare",
+"description": "Spend a Hero Point to use your authority (real or perceived) to cause another character to leave you alone, get out of your way or dismiss your actions as nothing more than a tantrum thrown by a haughty noble.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "nations2", "page": 205},
+{
+"advantage": "O Captain My Captain",
+"description": "Spend a Hero Point when you make a Risk to take a bold or dangerous action on the high seas in order to inspire your crew and allies to bravery. All of your allies gain Bonus Dice equal to your Ranks in Sailing.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "nations2", "page": 205},
+{
+"advantage": "Wrecking Ball",
+"description": "Spend a Hero Point to break down a door, smash a barricade, knock over a carriage or otherwise destroy or disable an object using your strength and momentum.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "nations2", "page": 205},
+{
+"advantage": "Body Blow",
+"description": "When you spend a Raise to deal Wounds or perform a Maneuver during a Brawl Risk, you can spend a Hero Point to increase the amount of Wounds you deal. Each Hero Point you choose to spend in this way causes your blow to deal 2 additional Wounds.",
+"points": [{"nation": "all", "price": 3}],
+"specials": ["knack"],
+"book": "nations2", "page": 206},
+{
+"advantage": "Brains of the Outfit",
+"description": "When you spend a Hero Point to give Bonus Dice to another Hero during a Risk, you may spend a second Hero Point. If you do, you grant that Hero additional Bonus Dice equal to your Ranks in Scholarship if you describe how your knowledge of academic pursuits will aid her in her Risk.",
+"points": [{"nation": "all", "price": 3}],
+"specials": ["knack"],
+"book": "nations2", "page": 206},
+{
+"advantage": "Fast Draw",
+"description": "When you make an Aim Risk, you can spend a Hero Point to gain an additional Raise for each pair of doubles that your dice roll. These dice can still be used for additional Raises as normal.",
+"points": [{"nation": "all", "price": 3}],
+"specials": ["knack"],
+"book": "nations2", "page": 206},
+{
+"advantage": "Flashing Blade",
+"description": "When you spend a Raise to deal Wounds or perform a Maneuver to deal Wounds to a character or Brute Squad during a Weaponry Risk, you can spend a Hero Point to deal the same number of Wounds to a different character or Brute Squad in the same Scene. A Hero can only use this Advantage once per Round.",
+"points": [{"nation": "all", "price": 3}],
+"specials": ["knack"],
+"book": "nations2", "page": 206},
+{
+"advantage": "Trusting",
+"description": "Activate this Advantage after the Game Master buys your unused dice during an Empathy Risk. You gain 2 Hero Points for each die the Game Master purchases. A Hero may only activate this Advantage once per game session.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "nations2", "page": 206},
+{
+"advantage": "Flirting with Disaster",
+"description": "Activate this Advantage when you make a Tempt Risk. The Game Master must buy all of your unused dice. A Hero can only activate this Advantage once per game session.",
+"points": [{"nation": "all", "price": 4}],
+"specials": [],
+"book": "nations2", "page": 206},
+{
+"advantage": "Moral Compass",
+"description": "[b]Requirement: Your Hero must have completed a Redemption story, and have no Corruption.[/b][p]Your Hero knows that people are better than the worst thing they ever did—in fact, your Hero embodies this. Whenever you help another Hero complete a step in a Redemption Story, that Hero loses two Corruption Points instead of one. 5 Point Advantages",
+"points": [{"nation": "all", "price": 4}],
+"specials": [],
+"book": "nations2", "page": 206},
+{
+"advantage": "Dark Gift",
+"description": "Choose one Monster Quality. You can spend a Hero Point to gain the Villain benefits of that Monster Quality for a Round. Whenever you activate your Dark Gift, you gain 1 Corruption Point, but you do not roll Corruption. If use of this Advantage causes you to reach 10 Corruption, you immediately become a Monster—not a Villain, a [i]Monster[/i]. While active, your Dark Gift’s manifestation is obvious to even a casual observer—your eyes might glow brightly, leathery wings may sprout from your back or your skin might become oil-slick and black as night. Anyone who sees you knows you for what you truly are—a Monster.[p]A Hero can only acquire this Advantage after Hero Creation by adventuring in Eisen.",
+"points": [{"nation": "all", "price": 5}],
+"specials": ["knack"],
+"book": "nations2", "page": 206},
+{
+"advantage": "Eye for Talent",
+"description": "When you spend Wealth to hire a Brute Squad, that Brute Squad’s Strength is 1 point higher.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Letter of Marque",
+"description": "[b]You or another Hero must possess the “Married to the Sea” Advantage[/b][p]Choose a Théan Nation. You have a Letter of Marque from that Nation’s government, giving your Ship’s crew permission to operate your vessel. Any privateers or military vessels from that Nation will not harass you so long as you present them your Letter, and you suffer no legal ramifications from “privateer activities” from that Nation. The agents of other Nations are typically unimpressed, although on rare occasion Théan politics may play to your advantage.",
+"points": [{"nation": "all", "price": 1}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Agoge Weapon Mastery",
+"description": "[b]Requires Lakedaimon Agoge[/b][p]Choose an additional weapon from the list of agoge weapons (page 174). You gain the appropriate bonus when you wield it.",
+"points": [{"nation": "all", "price": 2}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Cross the Palm",
+"description": "When you spend Wealth to Re-Roll a die in a social Risk swayable by money, you can Re-Roll up to 2 dice instead of 1.",
+"points": [{"nation": "all", "price": 2}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Devil Dog",
+"description": "[b]You or another Hero must possess the “Married to the Sea” Advantage[/b][p]Spend a Hero Point. Any Crew Squads under your command this round roll 2 Bonus Dice on any Risk.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "pirate", "page": 150},
+{
+"advantage": "Insistent",
+"description": "When you apply Pressure to another character, spend a Hero Point. The effect of your Pressure lasts until the end of the Round.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "pirate", "page": 150},
+{
+"advantage": "Speed Load",
+"description": "Spend a Hero Point. You reload a single firearm you are carrying with only a single Raise, rather than the 5 it would normally take. You can do this once per Sequence.",
+"points": [{"nation": "all", "price": 2}],
+"specials": ["knack"],
+"book": "pirate", "page": 150},
+{
+"advantage": "Tavern Favorite",
+"description": "When you make a Perform Risk in a “low-class” place such as a dockside tavern, a street corner or somewhere similar, you gain 1 Bonus Die.",
+"points": [{"nation": "all", "price": 2}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Atabean Traveler",
+"description": "Spend a Hero Point while within the Atabean Sea to know the direction to the closest land, find fresh food or water or ask the GM a single yes-or-no question about your environment or a creature you've encountered.",
+"points": [{"nation": "Rahuri", "price": 2},{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Frog Man",
+"description": "When you make an Athletics Risk that involves swim- ming, you gain 1 Bonus Die.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Nerves of Steel",
+"description": "Whenever you spend a Hero Point to give yourself Bonus Dice in a Risk against a creature or character with a Monster Quality, you gain 1 Re-Roll in addition to the normal effects of your Hero Point.",
+"points": [{"nation": "Jaragua", "price": 2},{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Powder Monkey",
+"description": "When you make an Aim Risk to fire a ship’s cannons, you gain 2 Bonus Dice.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Sweeten the Pot",
+"description": "Spend one Wealth to bribe a character during an Action or Dramatic Sequence without spending a Raise. You can do this once per Sequence.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "The Ocean's Favorite",
+"description": "[b]You must possess the “Married to the Sea” Advantage[/b][p]As long as you are Captain of your Ship:[p]- Before you roll dice at the beginning of a Round, you may spend a Hero Point to reorganize your Crew Squads.[p]- Spending a Hero Point to aid a Hero onboard your Ship, gains her 4 Bonus Dice instead of 3.[p]- You gain 1 Bonus Die for any Risk you take aboard your Ship.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "Wheel Man",
+"description": "Gain a Bonus Die when you make a Risk to steer a ship through treacherous waters or avoid enemy fire, or when your expertise at the helm would come in handy during another dangerous situation.",
+"points": [{"nation": "all", "price": 3}],
+"specials": [],
+"book": "pirate", "page": 150},
+{
+"advantage": "The Devil's Due",
+"description": "You cut part of yourself off and tossed it into the sea, offering it to the Devil Jonah. In return you were granted a gift, a unique (and often grisly) artifact with strange properties. But the cost for this was more than a pound of flesh; Jonah took a sliver of your soul, as well.[p]Choose a piece of your body that you have lost. In its place, you possess a magical artifact, a gift from Jonah with unique abilities. You can spend a Hero Point to activate your object’s special ability, and it continues to function for the remainder of the Scene.[p]You should work with your GM to choose an appropriate artifact, but some examples are…[p]- A bronze-and-silver-colored spike covered in strange sigils and made of much harder material. Only as wide as a pike shaft, it replaces a leg and grows into the stump. It never tarnishes and can smash through even the thickest of doors. You can kick through the equivalent of a foot of solid wood effortlessly, and if you spend a Raise to kick another characte, he takes 1 more Wound than he would otherwise.[p]- A spyglass made from hollow bones and fitted with blue faceted gems. Only the gift giver can see through it like a normal spyglass, but it also lets her see through the sides of a ship or the walls of a building to see what is happening inside.[p]- A pair of boots made out of dried...leather. They never get wet and the wearer can walk on water or wet surfaces as if on dry land. Of course, if the wearer leans over into the water, his boots will continue to float while he falls into the water and potentially drowns.",
+"points": [{"nation": "Aragosta", "price": 2}, {"nation": "all", "price": 4}],
+"specials": [],
+"book": "pirate", "page": 154},
+{
+"advantage": "Salty Dog",
+"description": "You learned the ways of life and survival aboard the pitching deck of a ship at sea. When you make a Risk using Sailing, Theft or Intimidate, all of your dice gain +1 to their value.",
+"points": [{"nation": "all", "price": 4}],
+"specials": ["innate"],
+"book": "pirate", "page": 154},
+{
+"advantage": "Seeker of Soryana",
+"description": "You know the secret pathways to Soryana, the Isle of the Dead. When exploring the wilderness or sailing, you can spend a Hero Point to find Soryana and gain an audience with Locuo. You can plead your case before him, and if he finds your cause just he will grant you the companionship of an appropriate ancestor.[p]Your ancestor will follow you as a ghostly, translucent specter but interacts with the world the same as any living character (she can only walk across solid surfaces, she can lift and carry objects, etc.). She has her own free will, but will generally help you to achieve your goals. Typically, this means a Story, but some Seekers (or their ancestors) will return to Soryana earlier or later, depending on the circumstances.[p]Your ancestor has 3 Ranks in all Traits. You and the GM each choose 1 Background for your ancestor, granting her all the associated Advantages for that Background, as well as 2 Ranks in each Background’s Skills. Your ancestor can take 10 Wounds before her soul is unraveled and lost for eternity.[p]Your ancestor's tie on this world is tenuous. At the beginning of each game session, you must spend a Hero Point in order to maintain your connection to your ancestor and allow her to keep her grasp on her sanity. If you do not pay this cost (either because you choose not to, or because your ancestor has wandered away from you), you lose your tie with your ancestor and she becomes an angry, insane spirit Monster (Strength 10, Monster Qualities Destructive and Horrifying, and she keeps any Advantages she had before). Her connection to your Hero is broken, and she preys upon the living.[p]Locuo does not take lightly to Seekers who let their ancestors become Lost, and is unlikely to view future petitions from such characters in a favorable light. If your ancestor becomes Lost, you must either find and destroy him or discover a way to return his sanity before Locuo will grant you another ancestor’s aid.[p]This Advantage also allows you to serve as a guide for another character who wishes to visit Soryana and petition Locuo. In this case, the other character pays the Hero Point to maintain the connection, and the ancestor follows her rather than you. If a character that you guide to Soryana fails to uphold her connection or doesn’t return her ancestor to the island, the responsibility falls to you to correct this.",
+"points": [{"nation": "Rahuri", "price": 4}],
+"specials": [],
+"book": "pirate", "page": 154},
+{
+"advantage": "Whisper to Mother",
+"description": "Spend a Hero Point and spill a small amount of your own blood into your hand (typically the Whisperer will bite her lip or tongue, or lay a small and shallow cut on her palm). You cup your hands in front of your mouth and whisper the name of a brother or sister, or choose to address Mother. You can make a single statement or ask a question, and the other person hears you. Then you cup your hands to your ear, and you can hear her whispered response (responding does not require the expenditure of a Hero Point, although it could be quite suspicious if you are speaking to someone and then suddenly stop to whisper into your hands). Longer conversations are possible, but require an additional Hero Point for each further exchange.",
+"points": [{"nation": "La Bucca", "price": 4}],
+"specials": ["knack"],
+"book": "pirate", "page": 155},
+{
+"advantage": "I Cannot Be Broken",
+"description": "When you spend a Hero Point to gain Bonus Dice on a Risk that directly relates to completing a Step in your Hero Story, you gain 2 Bonus Dice instead of 1.",
+"points": [{"nation": "Rahuri", "price": 3}, {"nation": "all", "price": 5}],
+"specials": ["knack"],
+"book": "pirate", "page": 155},
+{
+"advantage": "My Word Is My Bond",
+"description": "Spend any number of Hero Points and make a promise to another character. For the rest of the Scene, when you make a Risk in pursuit of fulfilling your promise, you gain 1 Raise for each Hero Point you spent to activate this Advantage. If your promise is unfulfilled at the end of the Scene, you lose all Hero Points and you cannot gain Hero Points for the rest of the game session. If your promise is fulfilled before the end of the Scene, you gain a Hero Point. A Hero may activate this Advantage only once per Episode.[p]A promise made in this way should be something important, difficult or dangerous. “I promise to attend your birthday party” is not a suitable promise…unless, of course, you are making this promise to the daughter of the murderous Duke who wants you dead.",
+"points": [{"nation": "Aragosta", "price": 3}, {"nation": "all", "price": 5}],
+"specials": ["knack"],
+"book": "pirate", "page": 155},
+{
+"advantage": "La Palabra",
+"description": "You are familiar with the surprisingly complex code of gestures and phrases that La Bucca uses to conduct business quietly. When you speak with another character who has this Advantage, you can give that character a message that others do not understand or do not notice (unless, of course, they also have this Advantage).[p]Overly complex ideas cannot be communicated through this code, but simple requests or common statements are easy to understand. Some examples include “I need help,” “I need to speak with you privately,” or “I am an agent of the Chapters,” as well as simple single-word phrases such as “yes,” “no,” “liar,” or “thief.” If the code contradicts words that are spoken, the other party will usually assume that the code is the truth.[p]You can teach another character how to make a single gesture in order to pass a message to a third party, but the character you teach cannot understand replies or use any phrases other than the one you show her. For this reason, most agents teach common phrases such as “I need to speak to you privately” or “I am carrying an important message” and, once they are free to speak more openly, they can then pass on more complex messages.",
+"points": [{"nation": "La Bucca", "price": 3}, {"nation": "all", "price": 5}],
+"specials": [],
+"book": "pirate", "page": 155},
+{
+"advantage": "Seize Your Glory",
+"description": "Choose a second Virtue for your Hero. Your Hero can still activate only one Virtue per game session.",
+"points": [{"nation": "Numa", "price": 3}, {"nation": "all", "price": 5}],
+"specials": ["knack"],
+"book": "pirate", "page": 155},
+{
+"advantage": "We Share Our Victories",
+"description": "When you help another Hero complete a Step in his personal Hero Story, you gain a Hero Point. Whenever another Hero helps you complete a Step in your personal Hero Story, he gains a Hero Point.",
+"points": [{"nation": "Jaragua", "price": 3}, {"nation": "all", "price": 5}],
+"specials": ["knack"],
+"book": "pirate", "page": 155}
+  ]
 }
